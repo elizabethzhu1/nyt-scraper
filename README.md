@@ -1,4 +1,4 @@
-# nyt-scraper
+# New York Times Web Scraper
 
 Built a fun project called: "What's in a New York Times Headline?" using Streamlit.
 
